@@ -1,4 +1,4 @@
-CSS 스터디 - Draft plan
+CSS 스터디 - Draft plan ㅋㅋㅋㅋㅋㅋㅋㅋ
 
 2018.3.20
 
