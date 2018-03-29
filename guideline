@@ -1,0 +1,24 @@
+CSS-workshop guideline (for newcomers)  circa 2018.01.
+
+1. scope and objectives
+ -be familiar with quantative social science research methodology using program (based on R)
+ -conduct a (collaborative) research using methodologies learned 
+
+2. time: every Thursday, 5:00-7:00pm
+
+3. venue: Yeonhee hall (specific rooms are tentative to availability of reservation), Yonsei University
+
+4. members: 4 (Jungbae An, Hyesu Im, Sinjae Kang, Inhwan Ko)
+
+4. materials covered
+ -QSS (http://qss.princeton.press/)
+ -tidyR textmining (https://www.tidytextmining.com)
+
+5. materials to cover (to be updated)
+ -Bit by Bit: social research in the digital age (Salganik 2017)
+ -Regression Analysis with R
+
+6. current progress:
+ -(3/26) shared the first draft of research proposal using textmining analysis 
+ -decided to first utilize KOREAN texts (meeting minutes of the National Assembly)
+ -decided to study structured topic modeling (presented by Inhwan Ko)
